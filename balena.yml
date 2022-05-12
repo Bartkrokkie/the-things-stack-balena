@@ -13,7 +13,7 @@ assets:
   repository:
     type: blob.asset
     data:
-      url: 'https://github.com/xoseperez/balena-tts-lns'
+      url: 'https://github.com/Bartkrokkie/the-things-stack-balena'
   logo:
     type: blob.asset
     data:
@@ -33,10 +33,10 @@ data:
     - TTS_SMTP_USER: 
     - TTS_SMTP_PASS: 
     - TTS_SENDGRID_KEY:
-    - TTS_SUBJECT_COUNTRY: ES
-    - TTS_SUBJECT_STATE: Catalunya
-    - TTS_SUBJECT_LOCATION: Barcelona
-    - TTS_SUBJECT_ORGANIZATION: TTN Catalunya
+    - TTS_SUBJECT_COUNTRY: BE
+    - TTS_SUBJECT_STATE: OVL
+    - TTS_SUBJECT_LOCATION: Lebbeke
+    - TTS_SUBJECT_ORGANIZATION: TTN Lebbek
   defaultDeviceType: raspberrypi3
   supportedDeviceTypes:
     - raspberrypi3
