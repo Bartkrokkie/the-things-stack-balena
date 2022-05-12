@@ -1,4 +1,4 @@
-FROM thethingsnetwork/lorawan-stack:3.13.1-armv7
+FROM thethingsnetwork/lorawan-stack:3.19.1-armv7
 
 USER root:root
 RUN apk --update --no-cache add openssl jq
