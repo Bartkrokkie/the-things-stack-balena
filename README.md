@@ -2,7 +2,7 @@
 
 ![TTS LNS with Balena for Raspberry Pi](https://raw.githubusercontent.com/xoseperez/balena-tts-lns/master/resources/logo_small.png)
 
-This project deploys the The Things Stack LoRaWAN Network Server (Open Source Edition) with balena. It runs on a Raspberry Pi (3/4) or balenaFin.
+This project deploys the The Things Stack LoRaWAN Network Server (Open Source Edition) with balena, v3.19.1. It runs on a Raspberry Pi (3/4) or balenaFin.
 
 This is a Work In Progress. It should work just fine for local (LAN) deployments, still needs a lot of testing for other environments.
 
@@ -36,7 +36,7 @@ You have two options here:
 
 Running this project is as simple as deploying it to a balenaCloud application. You can do it in just one click by using the button below:
 
-[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/xoseperez/balena-tts-lns)
+[![](https://www.balena.io/deploy.png)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/bartkrokkie/balena-tts-lns)
 
 Follow instructions, click Add a Device and flash an SD card with that OS image dowloaded from balenaCloud. Enjoy the magic 🌟Over-The-Air🌟!
 
